@@ -1,0 +1,11 @@
+body{
+  font-family: monospace;
+  background-color: pink;
+  width: 500px;
+  margin: auto;
+}
+blockquote{
+  border: 1px solid red;
+  margin-left: 0;
+  text-align: center;
+}
